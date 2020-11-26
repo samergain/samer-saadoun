@@ -1,14 +1,20 @@
 import React from "react";
+import Flip from 'react-reveal/Flip';
+import Jump from 'react-reveal/Jump';
 
 function Home() {
   return (
     <div className="container mt-5 rounded bg-light">
         <div className="row">
         <div className="col">
+            <Jump>
             <h1 className="pt-3 pl-3">WHO AM I?</h1>
+            </Jump>
             <hr />
             <div className="newClass">
+            <Flip left>
             <img id="selfie"  src="https://samergain.github.io/samers-portfolio/images/self4.png" alt="Samer selfie" />
+            </Flip>
             <div id= "textBox" className="mt-3 px-3">
                 <p><strong>As a professional, </strong>I studied computer science in Syria and graduated in 2009. Started my career in United Arab Emirates as junior software developer, and quickly jumped to another start-up company because they offered a better training package.</p>
                 <p>Working with a start-up was very exciting and challenging. I had to learn so many different fields in a very short period of time. From installing security cameras, to networks cabling and installation, to technical support, and some coding and software testing.</p>
