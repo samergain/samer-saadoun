@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "./Card";
 import Projects from "../projects.json";
-import LightSpeed from 'react-reveal/LightSpeed';
+import Fade from 'react-reveal/Fade';
 import Jump from 'react-reveal/Jump';
 
 function CardsContainer() {
@@ -17,7 +17,7 @@ function CardsContainer() {
             <div className="row row-cols-1 row-cols-md-2">
                 {
                   Projects.map(project => (
-                    <LightSpeed left>
+                    <Fade left>
                     <Card 
                     src={project.src}
                     alt ={project.alt}
@@ -25,7 +25,7 @@ function CardsContainer() {
                     repoLink= {project.repoLink}
                     description= {project.description}
                     />
-                    </LightSpeed>
+                    </Fade>
                   ))
                 }
             </div>

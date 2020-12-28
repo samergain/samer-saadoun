@@ -1,10 +1,10 @@
 [
     {
-      "src": "https://samergain.github.io/samers-portfolio/images/burgerify.png",
-      "alt":"screenshot of burgerify project",
-      "title": "Burgerify",
-      "repoLink": "https://github.com/samergain/Burgerify",
-      "description": "This project will burgerify your burgers implementing MVC design using Express,Node,Handlebars,MySQL and topped with ORM sauce."
+      "src": "./localup.png",
+      "alt":"screenshot of localup project",
+      "title": "LocalUP",
+      "repoLink": "https://github.com/samergain/local-up",
+      "description": "LocalUp is a MERN application built with MongoDB, JWT, react, React-Reveal, axios, and bootstrap. The concept is make a platform where fresh devs can team-up to help local businesses with their websites and online presence."
     },
     {
       "src": "https://samergain.github.io/samers-portfolio/images/Santas.png",
@@ -12,6 +12,13 @@
       "title": "Santa's Bag",
       "repoLink": "https://github.com/samergain/Santas_Bag",
       "description": "This app built to help you manage the gifts for your loved ones during the holidays season."
+    },
+    {
+      "src": "https://samergain.github.io/samers-portfolio/images/whales.png",
+      "alt":"Whales Tracker project screenshot",
+      "title": "Whales Tracker",
+      "repoLink": "https://github.com/samergain/Whale_Tracker",
+      "description": "Intergrating two APIs to locate whales sightings around the world. Geo search and species search available."
     },
     {
       "src": "https://github.com/samergain/work-day-scheduler/raw/master/workday.png",
@@ -28,11 +35,18 @@
       "description": "Search for a city in the U.S. get current weather and 5 days forecast for that city. All searched cities are stored in localStorage and the last one entered witll be on screen."
     },
     {
-      "src": "https://samergain.github.io/samers-portfolio/images/whales.png",
-      "alt":"Whales Tracker project screenshot",
-      "title": "Whales Tracker",
-      "repoLink": "https://github.com/samergain/Whale_Tracker",
-      "description": "Intergrating two APIs to locate whales sightings around the world. Geo search and species search available."
+      "src": "https://samergain.github.io/samers-portfolio/images/burgerify.png",
+      "alt":"screenshot of burgerify project",
+      "title": "Burgerify",
+      "repoLink": "https://github.com/samergain/Burgerify",
+      "description": "This project will burgerify your burgers implementing MVC design using Express,Node,Handlebars,MySQL and topped with ORM sauce."
+    },
+    {
+      "src": "https://github.com/samergain/offline-budget-tracker/raw/main/screenshots/3.png",
+      "alt":"screenshot of Offline Budget Tracker project",
+      "title": "Offline Budget Tracker",
+      "repoLink": "https://github.com/samergain/offline-budget-tracker",
+      "description": "This Progressive Web Application (PWA) utilizes IndexDB and service workers to work offline and be installable as stand-alone chrome app. Built using Node.js, express, js, mongodb, mongoose and deployed to heroku with mongodb Atlas."
     },
     {
       "src": "https://samergain.github.io/samers-portfolio/images/robofriends.png",
@@ -41,4 +55,4 @@
       "repoLink": "https://github.com/samergain/robofriends",
       "description": "Find your robo-friend with my first project using React."
     }
-  ]
+]
