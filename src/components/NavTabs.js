@@ -27,7 +27,7 @@ function NavTabs() {
               <a class="nav-link" href="mailto:samersadon@gmail.com">Contact</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1Lk2pFAYgB2ugQB4nTvQMOQLvVYVEdWD-/view?usp=sharing">Resume</a>
+              <a class="nav-link" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1P30FwwXVLJyjbKOG3Ag2SuRlyQ3J0AI6/view?usp=sharing">Resume</a>
             </li>
           </ul>
         </div>
