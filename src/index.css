@@ -5,14 +5,24 @@ body, html {
 .navbar {
   background-color: burlywood;
 }
-
+.SS {
+  font-family: fantasy;
+  font-size: 30px;
+}
+.SS:hover {
+  text-decoration: none;
+  text-shadow: 4px 4px 7px rgb(143, 150, 204);
+}
 #selfie {
   width: 200px;
   height: 200px;
   padding: 10px;
+  margin: 10px;
 }
 
-
+h1, h4 {
+  font-family: fantasy;
+}
 
 footer {
   position: fixed;
