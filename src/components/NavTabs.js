@@ -5,7 +5,7 @@ function NavTabs() {
     const location = useLocation();
     return (
     <nav class="navbar navbar-expand-md navbar-light sticky-top mb-5">
-        <Link to="/" className={"SS"}>
+        <Link to="/" className={"ss"}>
           Samer Saadoun
         </Link>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

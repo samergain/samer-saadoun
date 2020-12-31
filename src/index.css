@@ -5,11 +5,11 @@ body, html {
 .navbar {
   background-color: burlywood;
 }
-.SS {
-  font-family: fantasy;
+.ss {
+  font-family: fantasy, Arial, Helvetica, sans-serif;
   font-size: 30px;
 }
-.SS:hover {
+.ss:hover {
   text-decoration: none;
   text-shadow: 4px 4px 7px rgb(143, 150, 204);
 }
