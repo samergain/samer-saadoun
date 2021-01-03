@@ -21,7 +21,7 @@ body, html {
 }
 
 h1, h4 {
-  font-family: fantasy;
+  font-family: fantasy, Arial, Helvetica, sans-serif;
 }
 
 footer {
@@ -49,8 +49,7 @@ footer a {
   h1 {
      text-align: center;
   }
-  .newClass {
-      
+  .newClass { 
       display: flex;
       flex-direction: column;
   }

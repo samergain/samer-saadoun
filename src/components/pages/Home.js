@@ -17,7 +17,7 @@ function Home() {
             </Flip>
             <div id= "textBox" className="mt-3 px-3">
                 <h4>As a professional,</h4>
-                <p>I am a full stack web developer with good knowledge of <strong>HTML, CSS, JavaScript, jQuery, React, Node.js, Express, MySQL, MongoDB, MVC, MERN</strong>. I try to learn a new thing everyday no matter how simple or complex it is.</p>
+                <p>Full stack web developer with good knowledge of <strong>HTML, CSS, JavaScript, jQuery, React, Node.js, Express, MySQL, MongoDB, MVC, MERN</strong>. I try to learn a new thing everyday no matter how simple or complex it is.</p>
                 <p>Currently, I'm focused on React and JavaScript and working on a project that has the potential to become an LLC or a Non-profit business. At the same time, I'm actively looking for a job, which is a priority for me now.</p>
                     
                 <p>My path started back in Syria when I received my BSc in Computer Science in 2009. The first step in my career was in United Arab Emirates as junior software developer, and quickly jumped to another start-up company because they offered a better training package.</p>
