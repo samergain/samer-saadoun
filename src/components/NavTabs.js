@@ -1,10 +1,12 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
+import Logo from "../SamLogo.png";
 
 function NavTabs() {
     const location = useLocation();
     return (
     <nav class="navbar navbar-expand-md navbar-light sticky-top mb-5">
+        <img src={Logo} alt="samer logo" class="samer-logo"/>
         <Link to="/" className={"ss"}>
           Samer Saadoun
         </Link>

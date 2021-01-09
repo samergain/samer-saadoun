@@ -5,6 +5,10 @@ body, html {
 .navbar {
   background-color: burlywood;
 }
+.samer-logo {
+  width: 50px;
+  height: 50px;
+}
 .ss {
   font-family: fantasy, Arial, Helvetica, sans-serif;
   font-size: 30px;
