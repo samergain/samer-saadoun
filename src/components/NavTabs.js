@@ -26,7 +26,9 @@ function NavTabs() {
                 </Link>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="mailto:samersadon@gmail.com">Contact</a>
+                <Link to="/contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
+                 Contact
+                </Link>
             </li>
             <li class="nav-item">
               <a class="nav-link" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1P30FwwXVLJyjbKOG3Ag2SuRlyQ3J0AI6/view?usp=sharing">Resume</a>

@@ -1,0 +1,17 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    margin-left: 10px;
+}
+
+.contact-card {
+    margin: 10px;
+    color: #007bff;
+}
+
+.contact-card i{
+   vertical-align: middle;
+}
