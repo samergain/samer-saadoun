@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/samer-saadoun/static/css/main.ee519b8a.chunk.css",
-    "main.js": "/samer-saadoun/static/js/main.37004c9e.chunk.js",
-    "main.js.map": "/samer-saadoun/static/js/main.37004c9e.chunk.js.map",
+    "main.css": "/samer-saadoun/static/css/main.7a831b57.chunk.css",
+    "main.js": "/samer-saadoun/static/js/main.b2fb74e0.chunk.js",
+    "main.js.map": "/samer-saadoun/static/js/main.b2fb74e0.chunk.js.map",
     "runtime-main.js": "/samer-saadoun/static/js/runtime-main.b244d58c.js",
     "runtime-main.js.map": "/samer-saadoun/static/js/runtime-main.b244d58c.js.map",
-    "static/js/2.a449d946.chunk.js": "/samer-saadoun/static/js/2.a449d946.chunk.js",
-    "static/js/2.a449d946.chunk.js.map": "/samer-saadoun/static/js/2.a449d946.chunk.js.map",
+    "static/js/2.b962f5b4.chunk.js": "/samer-saadoun/static/js/2.b962f5b4.chunk.js",
+    "static/js/2.b962f5b4.chunk.js.map": "/samer-saadoun/static/js/2.b962f5b4.chunk.js.map",
     "index.html": "/samer-saadoun/index.html",
-    "static/css/main.ee519b8a.chunk.css.map": "/samer-saadoun/static/css/main.ee519b8a.chunk.css.map",
-    "static/js/2.a449d946.chunk.js.LICENSE.txt": "/samer-saadoun/static/js/2.a449d946.chunk.js.LICENSE.txt",
+    "static/css/main.7a831b57.chunk.css.map": "/samer-saadoun/static/css/main.7a831b57.chunk.css.map",
+    "static/js/2.b962f5b4.chunk.js.LICENSE.txt": "/samer-saadoun/static/js/2.b962f5b4.chunk.js.LICENSE.txt",
     "static/media/SamLogo.489cc113.png": "/samer-saadoun/static/media/SamLogo.489cc113.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b244d58c.js",
-    "static/js/2.a449d946.chunk.js",
-    "static/css/main.ee519b8a.chunk.css",
-    "static/js/main.37004c9e.chunk.js"
+    "static/js/2.b962f5b4.chunk.js",
+    "static/css/main.7a831b57.chunk.css",
+    "static/js/main.b2fb74e0.chunk.js"
   ]
 }
