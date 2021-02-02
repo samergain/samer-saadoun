@@ -7,9 +7,9 @@ import Fade from 'react-reveal/Fade';
 function CardsContainer() {
   return (
     <>
-       <div className="container mt-5 rounded bg-light">
+      <div className="container mt-5 rounded bg-light">
         <div className="row">
-        <div className="col">
+          <div className="col">
             <h1 className="pt-3 pl-3">WHAT CAN I DO SO FAR?</h1>
             <hr />
             <div className="row row-cols-1 row-cols-md-2">
@@ -31,7 +31,7 @@ function CardsContainer() {
                 }
             </div>
         </div>
-    </div>
+      </div>
     </div>
     </>
   );

@@ -9,6 +9,6 @@ img {
 
 .cardLinks {
     border-radius: 5px;
-    margin: 2px 15px;
-   
+    margin-right: 10px;
+    width: 100px;
 }
