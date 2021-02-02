@@ -22,7 +22,7 @@ function Card(props) {
             <p className="card-text"><strong>Concept: </strong>{ props.description}</p>
             <p className="card-text"><strong>Techs: </strong>{ props.techs}</p>
             <p className="card-text"><strong>Guest Login: </strong>{ props.guestAccount}</p>
-            <button className="cardLinks"><a href={ props.repoLink } target="_blank" rel="noreferrer">Code</a></button>
+            <button className="cardLinks"><a href={ props.repoLink } target="_blank" rel="noreferrer">Repo</a></button>
             <button className="cardLinks"><a href={ props.deployedLink } target="_blank" rel="noreferrer">Deployed</a></button>
           </div>
       </div>
