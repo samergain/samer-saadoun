@@ -21,7 +21,10 @@ function CardsContainer() {
                     alt ={project.alt}
                     title= {project.title}
                     repoLink= {project.repoLink}
+                    deployedLink= {project.deployedLink}
                     description= {project.description}
+                    techs = {project.techs}
+                    guestAccount = {project.guestAccount}
                     />
                     </Fade>
                   ))
