@@ -1,6 +1,7 @@
 import React from "react";
 import Flip from 'react-reveal/Flip';
 import Jump from 'react-reveal/Jump';
+import Selfie from '../../samerSelfie1.png';
 
 function Home() {
   return (
@@ -13,7 +14,7 @@ function Home() {
             <hr />
           <div className="newClass">
             <Flip left>
-            <img id="selfie"  src="https://samergain.github.io/samers-portfolio/images/self4.png" alt="Samer selfie" />
+            <img id="selfie"  src={Selfie} alt="Samer selfie" />
             </Flip>
             <div id= "textBox" className="mt-3 px-3">
                 <h4>As a professional,</h4>

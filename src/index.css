@@ -46,7 +46,6 @@ footer a {
       display: flex;
       margin: 0 auto;
       width: fit-content;
-      
       float: none !important;
       justify-content: center;
   }
