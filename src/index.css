@@ -1,6 +1,6 @@
 body, html {
   background: linear-gradient(to left, rgb(202, 175, 175), rgb(143, 150, 204));
-  
+  font-family: Tahoma, fantasy, Arial, Helvetica, sans-serif;
 }
 .navbar {
   background-color: burlywood;
@@ -10,8 +10,9 @@ body, html {
   height: 50px;
 }
 .ss {
-  font-family: fantasy, Arial, Helvetica, sans-serif;
+  font-family:  Tahoma, fantasy, Arial, Helvetica, sans-serif;
   font-size: 30px;
+  margin-left: 10px;
 }
 .ss:hover {
   text-decoration: none;
@@ -42,13 +43,16 @@ footer a {
 }
 
 @media only screen and (max-width: 576px) {
-  img {
+  #selfie {
       display: flex;
       margin: 0 auto;
-      width: fit-content;
       float: none !important;
       justify-content: center;
+      width: 200px;
+      height: 200px;
+      padding: 10px;
   }
+  
   h1 {
      text-align: center;
   }
