@@ -7,7 +7,7 @@ function NavTabs() {
     return (
     <nav className="navbar navbar-expand-md navbar-light sticky-top mb-5">
         <img src={Logo} alt="samer logo" className="samer-logo"/>
-        <Link to="/" className={"ss"}>
+        <Link to="/samer-saadoun" className={"ss"}>
           Samer Saadoun
         </Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,17 +16,17 @@ function NavTabs() {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item active">
-                <Link to="/about" className={location.pathname === "/about" ? "nav-link active" : "nav-link"}>
+                <Link to="/samer-saadoun/about" className={location.pathname === "/samer-saadoun/about" ? "nav-link active" : "nav-link"}>
                  About Me
                 </Link>
             </li>
             <li className="nav-item">
-                <Link to="/projects" className={location.pathname === "/projects" ? "nav-link active" : "nav-link"}>
+                <Link to="/samer-saadoun/projects" className={location.pathname === "/samer-saadoun/projects" ? "nav-link active" : "nav-link"}>
                  Projects
                 </Link>
             </li>
             <li className="nav-item">
-                <Link to="/contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
+                <Link to="/samer-saadoun/contact" className={location.pathname === "/samer-saadoun/contact" ? "nav-link active" : "nav-link"}>
                  Contact
                 </Link>
             </li>
