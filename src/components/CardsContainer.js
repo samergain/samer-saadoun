@@ -2,7 +2,6 @@ import React from "react";
 import Card from "./Card";
 import Projects from "../projects.json";
 import Fade from 'react-reveal/Fade';
-//import Jump from 'react-reveal/Jump';
 
 function CardsContainer() {
   return (
@@ -12,7 +11,7 @@ function CardsContainer() {
           <div className="col">
             <h1 className="pt-3 pl-3">WHAT CAN I DO SO FAR?</h1>
             <hr />
-            <div className="row row-cols-1 row-cols-md-2">
+            <div className="row mb-5 row-cols-1 row-cols-md-2">
                 {
                   Projects.map(project => (
                     <Fade left>

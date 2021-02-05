@@ -1,6 +1,7 @@
 body, html {
   background: linear-gradient(to left, rgb(202, 175, 175), rgb(143, 150, 204));
   font-family: Tahoma, fantasy, Arial, Helvetica, sans-serif;
+  color: rgb(57, 57, 57);
 }
 .navbar {
   background-color: burlywood;
