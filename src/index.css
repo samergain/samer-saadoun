@@ -1,6 +1,6 @@
 body, html {
   background: linear-gradient(to left, rgb(202, 175, 175), rgb(143, 150, 204));
-  font-family: Tahoma, fantasy, Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', 'Roboto', 'Noto Sans JP', 'Ubuntu', sans-serif, Tahoma, Arial, Helvetica;
   color: rgb(57, 57, 57);
 }
 .navbar {
@@ -11,7 +11,6 @@ body, html {
   height: 50px;
 }
 .ss {
-  font-family:  Tahoma, fantasy, Arial, Helvetica, sans-serif;
   font-size: 30px;
   margin-left: 10px;
 }
@@ -24,10 +23,6 @@ body, html {
   height: 200px;
   padding: 10px;
   margin: 10px;
-}
-
-h1, h4 {
-  font-family: Tahoma, fantasy, Arial, Helvetica, sans-serif;
 }
 
 footer {
