@@ -1,4 +1,4 @@
-img {
+.card-img-top {
     border-radius: 10px;
     border: burlywood solid 3px;
 }
@@ -6,9 +6,13 @@ img {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 10px;
 }
-
+.links {
+    display: flex;
+    justify-content: space-evenly;
+}
 .cardLinks {
-    border-radius: 5px;
-    margin-right: 10px;
-    width: 100px;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2);
+    border: burlywood solid 2px;
+    border-radius: 10px;
+    width: 45%;
 }

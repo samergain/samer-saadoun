@@ -21,8 +21,10 @@ body, html {
 #selfie {
   width: 200px;
   height: 200px;
-  padding: 10px;
+  padding: 2px;
   margin: 10px;
+  border-radius: 10px;
+  border: burlywood solid 3px;
 }
 
 footer {
@@ -60,7 +62,7 @@ footer a {
 }
 
 @media only screen and (min-width: 577px) {
-  img {
+  #selfie {
       float: left;
   }
 }
