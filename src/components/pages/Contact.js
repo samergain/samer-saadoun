@@ -3,9 +3,9 @@ import './Contact.css';
 
 function Home() {
   return (
-    <div className="container mt-5 rounded bg-light">
+    <div className="container mt-5 mb-5 rounded bg-light">
         <div className="row">
-            <div className="col contact">
+            <div className="col contact ">
                 <div className="contact-card">
                     <i className="fa fa-github-square fa-2x"></i><a href="https://github.com/samergain" target="_blank" rel="noreferrer">https://github.com/samergain</a>
                 </div>
