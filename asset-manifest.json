@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/samer-saadoun/static/css/main.d1350459.chunk.css",
-    "main.js": "/samer-saadoun/static/js/main.a5f1dc73.chunk.js",
-    "main.js.map": "/samer-saadoun/static/js/main.a5f1dc73.chunk.js.map",
+    "main.js": "/samer-saadoun/static/js/main.4599a6dc.chunk.js",
+    "main.js.map": "/samer-saadoun/static/js/main.4599a6dc.chunk.js.map",
     "runtime-main.js": "/samer-saadoun/static/js/runtime-main.b244d58c.js",
     "runtime-main.js.map": "/samer-saadoun/static/js/runtime-main.b244d58c.js.map",
     "static/js/2.a449d946.chunk.js": "/samer-saadoun/static/js/2.a449d946.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b244d58c.js",
     "static/js/2.a449d946.chunk.js",
     "static/css/main.d1350459.chunk.css",
-    "static/js/main.a5f1dc73.chunk.js"
+    "static/js/main.4599a6dc.chunk.js"
   ]
 }
