@@ -31,7 +31,7 @@ function NavTabs() {
                 </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ywhnrbmoR6Q3TxU0qx70JyGPydc6JrFf/view?usp=sharing">Resume</a>
+              <a className="nav-link" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1kxgaBWyaLhqa5qbWxE5P9dtGQJ38m9UT/view?usp=sharing">Resume</a>
             </li>
           </ul>
         </div>
